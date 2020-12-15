@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am monciaak on github.
+  * I am monciaak (https://keybase.io/monciaak) on keybase.
+  * I have a public key ASDnWnbP1RgCwrnBsEdE5M1d47Ws6OFcnGoZtN54qSd0TQo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e75a76cfd51802c2b9c1b04744e4cd5de3b5ace8e15c9c6a19b4de78a927744d0a",
+      "host": "keybase.io",
+      "kid": "0120e75a76cfd51802c2b9c1b04744e4cd5de3b5ace8e15c9c6a19b4de78a927744d0a",
+      "uid": "17a0c321a780485ae514e44328e8b519",
+      "username": "monciaak"
+    },
+    "merkle_root": {
+      "ctime": 1607991416,
+      "hash": "7127a62448352aa5bd20896a8c02900063f60bed9cd3774bc4d1381719e42f11af1fcac21a8ed3113380e165399e60283c48097560110065cd1248e8e10ec5ff",
+      "hash_meta": "1940f187a455344457e09d8097847562db31325f2fb13e8251a9208cb688a62c",
+      "seqno": 18403739
+    },
+    "service": {
+      "entropy": "qhdaII/cdgwYZ4w1MiLS5e8f",
+      "name": "github",
+      "username": "monciaak"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1607991460,
+  "expire_in": 504576000,
+  "prev": "83df9c465f0377eec8674ecc6a4d5ecbedd02ac1a7b018fc0ad09421ba2f3d05",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASDnWnbP1RgCwrnBsEdE5M1d47Ws6OFcnGoZtN54qSd0TQo](https://keybase.io/monciaak), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg51p2z9UYAsK5wbBHROTNXeO1rOjhXJxqGbTeeKkndE0Kp3BheWxvYWTESpcCDsQgg9+cRl8Dd+7IZ07Mak1ey+3QKsGnsBj8CtCUIbovPQXEIMz+ynIg7f2gFsqRGQ3K6rcn9l2CdrKD56V9w9CQCZ+/AgHCo3NpZ8RA09cpGNhldonyQ6SLKQu9qImTlNhwVXH3eJsz99g8UwJwnOzSfOOJcxYbQe7svsvdRnRNSMd1fKdGqhg2WB/7CqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO89bvGhEEMvdRVzOw4uy4fi0/SXxxQUT7TEPKtpffe7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/monciaak
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id monciaak
+```
